@@ -1,0 +1,16 @@
+.green{
+    color: rgb(6, 178, 23);
+   
+}
+.red{
+    color: #e27336;
+ 
+}
+.yellow{
+    color: rgb(225, 168, 92);
+    background: rgb(79, 184, 198);
+}
+.sky{
+    color: rgb(118, 211, 253);
+    background: rgb(212, 121, 103);
+}
